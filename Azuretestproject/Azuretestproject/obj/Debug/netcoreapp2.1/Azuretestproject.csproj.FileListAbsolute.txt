@@ -21,3 +21,27 @@ D:\green fox\greenfox\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netc
 D:\green fox\greenfox\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.Views.pdb
 D:\green fox\greenfox\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.csproj.CopyComplete
 D:\green fox\greenfox\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Index.g.cshtml.cs
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.csproj.CoreCompileInputs.cache
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.RazorAssemblyInfo.cache
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.RazorAssemblyInfo.cs
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.AssemblyInfoInputs.cache
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.AssemblyInfo.cs
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.dll
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.pdb
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\bin\Debug\netcoreapp2.1\Azuretestproject.deps.json
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\bin\Debug\netcoreapp2.1\Azuretestproject.runtimeconfig.json
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\bin\Debug\netcoreapp2.1\Azuretestproject.runtimeconfig.dev.json
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\bin\Debug\netcoreapp2.1\Azuretestproject.dll
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\bin\Debug\netcoreapp2.1\Azuretestproject.pdb
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\bin\Debug\netcoreapp2.1\Azuretestproject.Views.dll
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\bin\Debug\netcoreapp2.1\Azuretestproject.Views.pdb
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.TagHelpers.input.cache
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.TagHelpers.output.cache
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.RazorCoreGenerate.cache
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.RazorTargetAssemblyInfo.cache
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.RazorTargetAssemblyInfo.cs
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.Views.pdb
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.csproj.CopyComplete
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.csprojAssemblyReference.cache
+D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Razor\Views\Test\Index.g.cshtml.cs

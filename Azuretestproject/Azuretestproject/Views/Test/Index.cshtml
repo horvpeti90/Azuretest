@@ -1,0 +1,10 @@
+﻿<h1>Hello </h1>
+<h2>Upload some files</h2>
+<form asp-controller="Test" asp-action="Upload" method="post" enctype="multipart/form-data">
+    <div>
+        <input type="file" name="files" multiple />
+    </div>
+    <div>
+        <button type="submit">Upload</button>
+    </div>
+</form>
