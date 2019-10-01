@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\green fox\\greenfox\\Azuretest\\Azuretestproject\\Azuretestproject\\Azuretestproject.csproj": {}
+    "D:\\GreenFox\\AzureTest\\Azuretest\\Azuretestproject\\Azuretestproject\\Azuretestproject.csproj": {}
   },
   "projects": {
-    "D:\\green fox\\greenfox\\Azuretest\\Azuretestproject\\Azuretestproject\\Azuretestproject.csproj": {
+    "D:\\GreenFox\\AzureTest\\Azuretest\\Azuretestproject\\Azuretestproject\\Azuretestproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\green fox\\greenfox\\Azuretest\\Azuretestproject\\Azuretestproject\\Azuretestproject.csproj",
+        "projectUniqueName": "D:\\GreenFox\\AzureTest\\Azuretest\\Azuretestproject\\Azuretestproject\\Azuretestproject.csproj",
         "projectName": "Azuretestproject",
-        "projectPath": "D:\\green fox\\greenfox\\Azuretest\\Azuretestproject\\Azuretestproject\\Azuretestproject.csproj",
-        "packagesPath": "C:\\Users\\Peti\\.nuget\\packages\\",
-        "outputPath": "D:\\green fox\\greenfox\\Azuretest\\Azuretestproject\\Azuretestproject\\obj\\",
+        "projectPath": "D:\\GreenFox\\AzureTest\\Azuretest\\Azuretestproject\\Azuretestproject\\Azuretestproject.csproj",
+        "packagesPath": "C:\\Users\\vagas_kty0sox\\.nuget\\packages\\",
+        "outputPath": "D:\\GreenFox\\AzureTest\\Azuretest\\Azuretestproject\\Azuretestproject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Peti\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\vagas_kty0sox\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
@@ -52,6 +54,10 @@
               "target": "Package",
               "version": "[2.1.2, )"
             },
+            "Microsoft.Azure.Storage.Blob": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
@@ -61,6 +67,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[2.1.9, )"
+            },
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[9.3.3, )"
             }
           },
           "imports": [
