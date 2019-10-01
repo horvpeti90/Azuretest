@@ -8,7 +8,7 @@ namespace Azuretestproject.Controllers
 {
     public class TestController : Controller
     {
-        [HttpGet("/")]
+        [HttpGet("/hello")]
         public IActionResult Index()
         {
             return View();
