@@ -28,6 +28,7 @@ namespace Azuretestproject.Controllers
         [HttpGet("/")]
         public IActionResult Index()
         {
+
             return View();
         }
 
