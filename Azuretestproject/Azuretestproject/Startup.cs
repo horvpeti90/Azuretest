@@ -26,6 +26,12 @@ namespace Azuretestproject
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+
+            }
+            else
+            {
+                app.UseDeveloperExceptionPage();
+
             }
 
             app.UseMvc();

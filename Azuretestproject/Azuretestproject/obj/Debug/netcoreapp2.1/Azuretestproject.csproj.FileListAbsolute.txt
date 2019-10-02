@@ -20,7 +20,6 @@ D:\green fox\greenfox\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netc
 D:\green fox\greenfox\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.RazorTargetAssemblyInfo.cs
 D:\green fox\greenfox\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.Views.pdb
 D:\green fox\greenfox\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.csproj.CopyComplete
-D:\green fox\greenfox\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Index.g.cshtml.cs
 D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.csproj.CoreCompileInputs.cache
 D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.RazorAssemblyInfo.cache
 D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.RazorAssemblyInfo.cs
@@ -45,3 +44,5 @@ D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netc
 D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
 D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Azuretestproject.csprojAssemblyReference.cache
 D:\GreenFox\AzureTest\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Razor\Views\Test\Index.g.cshtml.cs
+D:\green fox\greenfox\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Razor\Views\Test\Index.g.cshtml.cs
+D:\green fox\greenfox\Azuretest\Azuretestproject\Azuretestproject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
